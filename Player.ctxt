@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Player
+comment0.text=\ \r\n\ Write\ a\ description\ of\ class\ Player\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Player()
+comment2.params=w
+comment2.target=void\ addedToWorld(greenfoot.World)
+comment3.params=
+comment3.target=void\ eatTarget()
+comment4.params=
+comment4.target=void\ KenaUlar()
+comment5.params=
+comment5.target=void\ act()
+comment5.text=\r\n\ Act\ -\ do\ whatever\ the\ Player\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment6.params=
+comment6.target=void\ movePlayer()
+comment7.params=direction
+comment7.target=int\ getChangeX(int)
+comment8.params=direction
+comment8.target=int\ getChangeY(int)
+comment9.params=offset
+comment9.target=int\ adjustOffset(int)
+numComments=10
